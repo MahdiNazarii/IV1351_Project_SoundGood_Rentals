@@ -2,7 +2,7 @@
 
 ## Setting Up the Soundgood Database:
 
-1. Navigate to the 'resources' directory by following the path: `soundgood_rentals/src/main/resources`.
+1. Navigate to the `resources` directory by following the path: `soundgood_rentals/src/main/resources`.
 2. Execute the SQL code in the `CreateSoundGoodDB.sql` file.
 3. Execute the SQL code in the `InsertDataToSoundGoodDB.sql` file.
 
